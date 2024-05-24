@@ -1,10 +1,10 @@
-## Olá! 
+## Hello Wolrd! 
 Meu nome é Francisco Erik. Bem vindos ao meu perfil ;)
 Hi everyone, my name is Francisco Erik. Welcome to my page B|
 
 - Atualmente estou focando em aprender front-end. I'm currently focusing on frond-end skills!
 - Estou aprendendo HTML, CSS, JS. I'm learning JS right now.
-- Desenvolvendo projetos iniciantes para ganhar experiência. Developing beginner projects to gain expirience d-_-b
+- Desenvolvendo projetos iniciantes para ganhar experiência. Developing beginner projects to gain experience d-_-b
 
 <div>
   <a href="https://github.com/Kenshi-Sama">
