@@ -2,8 +2,8 @@
 Meu nome é Francisco Erik. Bem vindos ao meu perfil ;)
 Hi everyone, my name is Francisco Erik. Welcome to my page B|
 
-- Atualmente estou focando em aprender front-end. I'm currently focusing on frond-end skills!
-- Estou aprendendo HTML, CSS, JS. I'm learning JS right now.
+- Atualmente estou focando no curso disponibilizado pela ORACLE e ALURA. I'm currently focusing on learning ALURA's courses, sponsored by ORACLE!
+- Estou aprendendo lógica de progração, GIT, SoftSkills e muito mais. I'm learning programming, SoftSkills and much more.
 - Desenvolvendo projetos iniciantes para ganhar experiência. Developing beginner projects to gain experience d-_-b
 
 <div>
